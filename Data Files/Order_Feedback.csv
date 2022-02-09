@@ -1,0 +1,7 @@
+order_id,feedback_id,order_rating,store_type,rewards_member,date,time
+101,f01,5,Licensed,Yes,2022-01-04,8:25:00
+102,f02,4,Licensed,Yes,2022-01-05,9:22:00
+103,f03,4,Corporate,No,2022-01-06,10:30:00
+104,f04,1,Licensed,Yes,2022-01-07,10:17:00
+105,f05,3,Corporate,No,2022-01-08,19:57:00
+106,f06,5,Corporate,Yes,2022-01-09,0:15:00

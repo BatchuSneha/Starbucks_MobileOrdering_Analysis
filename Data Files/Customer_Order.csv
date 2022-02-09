@@ -1,0 +1,10 @@
+order_id,customer_id,store_id,payment_id ,order_type,third_party_order,order_total,items_ordered,date_ordered,date_order_complete,time_ordered,time_order_complete
+101,9,sc1,p01,In-Person,No,10.5,2,2022-01-02,2022-01-02,8:15:00,8:25:00
+102,4,sc6,p02a,Mobile,No,13.25,2,2022-01-03,2022-01-03,8:50:00,9:05:00
+103,13,sc13,p02d,Mobile,No,15,3,2022-01-04,2022-01-04,15:23:00,15:40:00
+104,1,sc4,p03a,Mobile,No,5.5,1,2022-01-05,2022-01-05,8:15:00,8:25:00
+105,6,sc14,p03i,In-Person,No,7,2,2022-01-06,2022-01-06,9:28:00,9:33:00
+106,7,sc18,p04a,Mobile,No,11,2,2022-01-07,2022-01-07,9:53:00,10:05:00
+107,8,sc1,p04i,Mobile,No,18,3,2022-01-08,2022-01-08,11:16:00,11:30:00
+108,11,sc20,p05a,Third Party,DoorDash,21,4,2022-01-09,2022-01-10,10:22:00,10:45:00
+109,3,sc3,p05d,Third Party,UberEats,14,2,2022-01-10,2022-01-11,13:16:00,13:35:00

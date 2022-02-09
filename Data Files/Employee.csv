@@ -1,0 +1,44 @@
+employee_id,store_id,firstname,lastname,primary_address,primary_address2,city,state,zipcode,country,gender,date_of_birth,date_joined,last_updated
+Eid1,sc1,John,Torres,2005 El Camino Real,#20,Santa Clara,CA,95050,USA,Male,1999-03-17,2021-03-07,2014-09-19
+Eid2,sc1,Emelia,Bedevil,2005 El Camino Real,,Santa Clara,CA,95050,USA,Female,1998-09-19,2019-09-01,2017-02-10
+Eid3,sc2,Travis,McLovin,2371 El Camino Real,#22,Santa Clara,CA,95050,USA,Male,1997-06-10,2020-06-10,2019-05-17
+Eid4,sc2,Jasmine,Flores,2371 El Camino Real,,Santa Clara,CA,95050,USA,Female,1998-07-11,2020-06-11,2021-03-24
+Eid5,sc3,Alex,Everett,496 El Camino Real,#24,Santa Clara,CA,95050,USA,Male,1991-08-29,2021-06-12,2022-01-26
+Eid6,sc3,Laura,Davis,496 El Camino Real,#45,Santa Clara,CA,95050,USA,Female,1992-07-24,2020-06-13,2007-10-01
+Eid7,sc4,James,Jameson,2606 The Alameda,#39,Santa Clara,CA,95050,USA,Male,1993-05-01,2021-06-14,2020-03-19
+Eid8,sc4,Amelia,Xavier,2606 The Alameda,#39,Santa Clara,CA,95050,USA,Female,1994-05-01,2020-06-15,2020-03-19
+Eid9,sc5,Mike,Jackson,72 Washington Ave,Unit 4,Santa Clara,CA,95051,USA,Male,1995-02-22,2019-06-16,2021-11-30
+Eid10,sc5,Sandy,Zhang,72 Washington Ave,Unit 5,Santa Clara,CA,95051,USA,Female,1996-11-17,2021-06-17,2020-04-28
+Eid11,sc6,Mike,Jordon,2761 Homestead Road,#12,Santa Clara,CA,95054,USA,Male,1997-08-25,2020-06-18,2018-08-25
+Eid12,sc6,Kim,Williams,2761 Homestead Road,#45,Santa Clara,CA,95054,USA,Female,1998-04-12,2019-06-01,2016-09-09
+Eid13,sc7,Kahn,Ye,2761 Homestead Road,#89,San Jose,CA,95126,USA,Male,1999-01-30,2019-06-21,2019-07-01
+Eid14,sc7,Vanessa,Miller,2761 Homestead Road,#21,San Jose,CA,95126,USA,Female,1995-12-12,2019-07-21,2021-12-22
+Eid15,sc8,Payton,Manning,2761 Homestead Road,#3,San Jose,CA,95126,USA,Male,1997-08-23,2019-08-22,2020-01-25
+Eid16,sc8,Nicky,Mirage,2761 Homestead Road,#8,San Jose,CA,95126,USA,Female,1999-05-05,2019-06-23,2014-09-19
+Eid17,sc9,Eli,Manning,2761 Homestead Road,#23,San Jose,CA,95126,USA,Male,1990-01-14,2019-06-22,2017-02-10
+Eid18,sc9,Candy,Lopez,2761 Homestead Road,#24,San Jose,CA,95126,USA,Female,1992-09-26,2020-06-25,2019-05-17
+Eid19,sc10,Calvin,Brodus,1700 Park Avenue,#895,San Jose,CA,95127,USA,Male,1999-02-02,2021-06-26,2021-03-24
+Eid20,sc10,Dione,Brown,1700 Park Avenue,#985,San Jose,CA,95127,USA,Female,1990-11-14,2019-08-22,2022-01-26
+Eid21,sc11,Tyrone,Shaw,200 Saratoga Ave,,Santa Clara,CA,95054,USA,Male,1992-08-26,2019-04-28,2007-10-01
+Eid22,sc11,Rachel,Funk,201 Saratoga Ave,,Santa Clara,CA,95054,USA,Female,1999-05-15,2021-06-29,2020-03-19
+Eid23,sc12,Francisco,Bernard,2855 Stevens Creek Boulevard,#95,Santa Clara,CA,95051,USA,Male,1990-01-13,2019-03-30,2020-03-19
+Eid24,sc12,Madeline,Patel,2856 Stevens Creek Boulevard,#9578,Santa Clara,CA,95051,USA,Female,1992-09-27,2021-08-20,2021-11-30
+Eid25,sc13,Fernando,Lopez,3253 Coronado Place,,Santa Clara,CA,95051,USA,Male,1999-09-05,2020-04-28,2020-04-28
+Eid26,sc13,Jackie,Jay,3254 Coronado Place,,Santa Clara,CA,95051,USA,Female,1990-11-14,2021-01-27,2018-08-25
+Eid27,sc14,Daniel,Smith,1700 Park Avenue,#543,San Jose,CA,95127,USA,Male,1996-11-07,2020-03-30,2016-09-09
+Eid28,sc14,Nancy,Salmon,1701 Park Avenue,#10,San Jose,CA,95127,USA,Female,1997-08-24,2021-08-22,2019-07-01
+Eid29,sc15,Wayne,Wong,3605 El Camino Real,,Santa Clara,CA,99306,USA,Male,1998-04-13,2019-04-28,2021-12-22
+Eid30,sc15,Wendy,Roberts,3606 El Camino Real,,Santa Clara,CA,99306,USA,Female,1999-10-30,2020-06-29,2020-01-25
+Eid31,sc16,Jeff,Li,3055 Olin Avenue,,San Jose,CA,95128,USA,Male,1995-01-12,2019-03-30,2014-09-19
+Eid32,sc16,Hope,Donald,3056 Olin Avenue,,San Jose,CA,95128,USA,Female,1997-08-22,2021-03-22,2017-02-10
+Eid33,sc17,Jayden,Singh,2030 Wyatt Drive,#1025,Santa Clara,CA,95054,USA,Male,1998-03-17,2021-04-28,2019-05-17
+Eid34,sc17,Susy,Wright,2031 Wyatt Drive,#110,Santa Clara,CA,95054,USA,Female,1999-09-19,2021-06-21,2021-03-24
+Eid35,sc18,Jim,Thome,3555 Monroe Street,#65,Santa Clara,CA,95051,USA,Male,1994-06-10,2019-03-22,2022-01-26
+Eid36,sc18,Jennifer,Chen,3556 Monroe Street,,Santa Clara,CA,95051,USA,Female,1993-07-11,2021-01-23,2007-10-01
+Eid37,sc19,Tony,Falcon,1751 North First Street,#1590,San Jose,CA,95116,USA,Male,1990-08-29,2019-06-21,2020-03-19
+Eid38,sc19,Tiffany,Nguyen,1752 North First Street,#2940,San Jose,CA,95116,USA,Female,1992-07-22,2020-09-22,2020-03-19
+Eid39,sc20,Manny,Moreno,3551 Homestead Road,,Santa Clara,CA,95054,USA,Male,1993-05-10,2021-09-28,2021-11-30
+Eid40,sc20,Elizabeth,Garcia,3552 Homestead Road,,Santa Clara,CA,95054,USA,Female,1994-05-11,2019-06-20,2020-04-28
+Eid41,sc21,Ronald,Jackson,1396 Lincoln Avenue,,San Jose,CA,95127,USA,Male,1990-02-22,2021-03-20,2018-08-25
+Eid42,sc21,Emily,Richardson,1397 Lincoln Avenue,,San Jose,CA,95127,USA,Female,1995-11-17,2020-07-28,2016-09-09
+Eid43,rmsc,Samantha,Scott,4837 Willow Road,#1,San Jose,CA,95128,USA,Female,1986-02-22,1986-03-13,2018-04-20

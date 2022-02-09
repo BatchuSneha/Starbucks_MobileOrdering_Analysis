@@ -1,0 +1,23 @@
+store_id,store_type,description,address,address2,city,state,zipcode,county,region,country,reserve_store,mobile_order,drive_thru,high_performing,manager_id,regional_manager_id
+sc1,Licensed,Target Santa Clara T-2,2004 El Camino Real,,Santa Clara,CA,95050,Santa Clara,Northern California-South Bay,USA,No,No,No,No,Eid1,Eid43
+sc2,Corporate,El Camino & San Tomas,2370 El Camino Real,,Santa Clara,CA,95050,Santa Clara,Northern California-South Bay,USA,No,Yes,No,No,Eid3,Eid43
+sc3,Corporate,El Camino & Railway,495 El Camino Real,,Santa Clara,CA,95050,Santa Clara,Northern California-South Bay,USA,No,Yes,No,Yes,Eid5,Eid43
+sc4,Licensed,Safeway-SC763,2605 The Alameda,,Santa Clara,CA,95050,Santa Clara,Northern California-South Bay,USA,No,No,No,No,Eid7,Eid43
+sc5,Corporate,Washington & Linden,71 Washington Ave,,Santa Clara,CA,95050,Santa Clara,Northern California-South Bay,USA,No,Yes,No,No,Eid9,Eid43
+sc6,Licensed,Safeway-SC700,2760 Homestead Road,,Santa Clara,CA,95051,Santa Clara,Northern California-South Bay,USA,No,No,No,No,Eid11,Eid43
+sc7,Licensed,SJC Terminal A-Gate13,2077 Airport Blvd,Terminal A Post Security,San Jose,CA,95131,Santa Clara,Northern California-South Bay,USA,No,Yes,No,No,Eid13,Eid43
+sc8,Licensed,SJC Terminal B-Gate22,2077 Airport Blvd,Gate 22 Post Security,San Jose,CA,95131,Santa Clara,Northern California-South Bay,USA,No,Yes,No,No,Eid15,Eid43
+sc9,Corporate,Coleman & Newhall,540 Newhall Drive,#20,San Jose,CA,95110,Santa Clara,Northern California-South Bay,USA,No,Yes,Yes,Yes,Eid17,Eid43
+sc10,Licensed,SJC Terminal B,2077 Airport Blvd,Baggage Claim,San Jose,CA,95131,Santa Clara,Northern California-South Bay,USA,No,No,No,No,Eid19,Eid43
+sc11,Corporate,200 Saratoga Ave,200 Saratoga Ave,,Santa Clara,CA,95050,Santa Clara,Northern California-South Bay,USA,No,Yes,No,No,Eid21,Eid43
+sc12,Corporate,Valley Fair Mall - L1,2855 Stevens Creek Boulevard,#1329,Santa Clara,CA,95050,Santa Clara,Northern California-South Bay,USA,No,Yes,No,Yes,Eid23,Eid43
+sc13,Corporate,Santa Clara Square,3253 Coronado Place,,Santa Clara,CA,95054,Santa Clara,Northern California-South Bay,USA,Yes,Yes,No,Yes,Eid25,Eid43
+sc14,Corporate,Park & Naglee,1700 Park Avenue,#10,San Jose,CA,95126,Santa Clara,Northern California-South Bay,USA,No,Yes,No,No,Eid27,Eid43
+sc15,Corporate,El Camino & Lawrence,3605 El Camino Real,,Santa Clara,CA,95051,Santa Clara,Northern California-South Bay,USA,No,Yes,Yes,Yes,Eid29,Eid43
+sc16,Corporate,Santa Row,3055 Olin Avenue,#1025,San Jose,CA,95128,Santa Clara,Northern California-South Bay,USA,No,Yes,No,Yes,Eid31,Eid43
+sc17,Corporate,Montague & Mission College,2030 Wyatt Drive,#110,Santa Clara,CA,95054,Santa Clara,Northern California-South Bay,USA,No,Yes,No,Yes,Eid33,Eid43
+sc18,Corporate,Monroe & Lawrence Expy,3555 Monroe Street,#65,Santa Clara,CA,95051,Santa Clara,Northern California-South Bay,USA,No,Yes,No,Yes,Eid35,Eid43
+sc19,Corporate,N 1st St & Matrix Blvd,1751 North First Street,,San Jose,CA,95112,Santa Clara,Northern California-South Bay,USA,No,Yes,No,Yes,Eid37,Eid43
+sc20,Corporate,Homestead & Lawrence,3551 Homestead Road,,Santa Clara,CA,95051,Santa Clara,Northern California-South Bay,USA,No,Yes,No,No,Eid39,Eid43
+sc21,Corporate,Lincoln & Minnesota Willow Glen,1396 Lincoln Avenue,,San Jose,CA,95125,Santa Clara,Northern California-South Bay,USA,Yes,Yes,No,Yes,Eid41,Eid43
+rmsc,Corporate,Regional Office,4837 Willow Road,,San Jose,CA,95126,Santa Clara,Northern California-South Bay,USA,No,No,No,No,Eid43,Eid43

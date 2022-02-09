@@ -1,0 +1,10 @@
+supplier_id,supllier_name,supllier_address,supllier_address2,supllier_city,supllier_state,supllier_zipcode,distribution_type,region_supplied,supllier_type
+c1,NDC-Seattle,2401 Utah Avenue South,,Seattle,WA,98134,core,National,corporate
+c2,NDC-Seattle,2401 Utah Avenue South,,Seattle,WA,98134,promotional,National,corporate
+c3,NDC-Seattle,2401 Utah Avenue South,,Seattle,WA,98134,equipment,National,corporate
+r1,SC Traders-San Jose,394 W Santa Clara St,Suite 1500,San Jose,CA,95113,breakfast,Northern California-South Bay,regional
+r2,SC Distribution-Gilroy,3051 Hecker Pass Hwy,,Gilroy,CA,95020,snack,Northern California-South Bay,regional
+r3,WS Trading Co-Palo Alto,2894 Alpine Rd,,Portola Valley,CA,94028,other,Northern California-South Bay,regional
+d1,San Martin Dairy,588 Fitzgerald Ave,#9876,San Martin,CA,95046,dairy,Santa Clara County,local
+d2,Mendocino Dairy,32551 Albion Ridge Rd,#4560,Albion,CA,95410,dairy,Santa Clara County,local
+d3,No Moo Milk Co,100 N Almaden Ave,#74,San Jose,CA,95110,dairy-no lactose,Santa Clara County,local

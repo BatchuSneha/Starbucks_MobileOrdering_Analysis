@@ -1,0 +1,10 @@
+payment_id,payment_source,payment_status,validation_id,validation_source
+p01,cash,none,csh001a,none
+p02a,credit_card,approved,ccx001a,bank
+p02d,credit_card,declined,ccx001b,bank
+p03a,gift_card,approved,gcx001a,sbux
+p03i,gift_card,insufficient_balance,gcx001b,sbux
+p04a,reward_points,approved,rwd001a,sbux
+p04i,reward_points,insufficient_balance,rwd001b,sbux
+p05a,paypal,approved,ppl001a,external_app
+p05d,paypal,declined,ppl001b,external_app

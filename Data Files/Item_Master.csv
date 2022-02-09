@@ -1,0 +1,90 @@
+item_id,supplier_id,item_description,item_type,Allergens,source_type,new_store_item,transport_type,storage_type,shelf_life,order_lead_time
+I1,c1,short cup hot,cup,none,national,No,standard,standard,365,7
+I2,c1,tall cup hot,cup,none,national,No,standard,standard,365,7
+I3,c1,grande cup hot,cup,none,national,No,standard,standard,365,7
+I4,c1,venti cup hot,cup,none,national,No,standard,standard,365,7
+I5,c1,tall cup cold,cup,none,national,No,standard,standard,365,7
+I6,c1,grande cup cold,cup,none,national,No,standard,standard,365,7
+I7,c1,venti cup cold,cup,none,national,No,standard,standard,365,7
+I8,c1,black marker,store supply,none,national,No,standard,standard,999,14
+I9,c2,green apron,store supply,none,national,No,standard,standard,999,14
+I10,c2,black apron,store supply,none,national,No,standard,standard,999,14
+I11,c3,espresso machine,equipment,none,national,Yes,truck,standard,999,120
+I12,c3,cash register,equipment,none,national,Yes,truck,standard,999,120
+I13,c3,POS payment system,equipment,none,national,Yes,truck,standard,999,120
+I14,c1,napkins,store supply,none,national,No,standard,standard,365,7
+I15,c1,stir sticks,store supply,none,national,No,standard,standard,365,7
+I16,c1,drink stoppers,store supply,none,national,No,standard,standard,365,7
+I17,c1,drink holders,store supply,none,national,No,standard,standard,365,7
+I18,c1,pikes place roast whole coffee-5lb,coffee,none,national,No,standard,perishable,180,7
+I19,c1,blonde roast whole coffee-5lb,coffee,none,national,No,standard,perishable,180,7
+I20,c1,espresso roast whole coffee-5lb,coffee,none,national,No,standard,perishable,180,7
+I21,c1,dark roast whole coffee-5lb,coffee,none,national,No,standard,perishable,180,7
+I22,c1,Reserve - Jamaica Blue Montain whole coffee 8oz,coffee,none,national,No,standard,perishable,180,14
+I23,c3,Ice Macine,store supply,none,national,Yes,truck,standard,999,120
+I24,c1,Brown Sugar Syrup,drink,none,national,No,standard,perishable,180,7
+I25,c1,Caramel Syrup,syrup,none,national,No,standard,perishable,180,7
+I26,c1,Chestnut Praline Syrup,syrup,none,national,No,standard,perishable,180,7
+I27,c1,Cinnamon Dolce Syrup,syrup,none,national,No,standard,perishable,180,7
+I28,c1,Hazelnut Syrup,syrup,none,national,No,standard,perishable,180,7
+I29,c1,Irish Cream Syrup,syrup,none,national,No,standard,perishable,180,7
+I30,c1,Peppermint Syrup,syrup,none,national,No,standard,perishable,180,7
+I31,c1,Raspberry Syrup,syrup,none,national,No,standard,perishable,180,7
+I32,c1,Sugar Cookie Syrup,syrup,none,national,No,standard,perishable,180,7
+I33,c1,Toffee Nut Syrup,syrup,none,national,No,standard,perishable,180,7
+I34,c1,Vanilla Syrup,syrup,none,national,No,standard,perishable,180,7
+I35,c1,Sugar Fee Vanilla Syrup,syrup,none,national,No,standard,perishable,180,7
+I36,c1,Caramel Drizzle,topping,none,national,No,standard,perishable,180,7
+I37,c1,Mocha Sauce,topping,none,national,No,standard,perishable,180,7
+I38,c1,Dark Caramel Sauce,topping,none,national,No,standard,perishable,180,7
+I39,c1,Pistachio Sauce,topping,none,national,No,standard,perishable,180,7
+I40,c1,White Chocolate Mocha Sauce,drink,none,national,No,standard,perishable,180,7
+I41,r3,Hot Sauce,store supply,none,regional,No,standard,perishable,180,7
+I42,r3,Lemonade,drink,none,regional,No,standard,perishable,180,7
+I43,r3,Chai Latte Tea mix,drink,none,regional,No,standard,perishable,180,7
+I44,c3,Whipped Cream cannister,store supply,none,national,No,standard,standard,180,7
+I45,c1,co2 cartridge,store supply,none,national,No,standard,standard,180,7
+I46,c1,frappacino mix,drink,none,national,No,standard,perishable,180,7
+I47,r1,Impossible Breakfast Sandwich,breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I48,r1,"Bacon, Egg & Chesse Sandwich",breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I49,r1,"Spinach, Feta & Egg White Wrap",breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I50,r1,Everything Bagel,breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I51,r1,Plain Bagel,breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I52,r1,Cream Cheese Cup,breakfast,yes,regional,No,cold,refridgerated truck,14,4
+I53,r1,Butter Croissant,breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I54,r1,Iced Lemon Loaf,breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I55,r1,Banana Walnut & Pecan Loaf,breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I56,r1,Blueberry Muffin,breakfast,yes,regional,No,cold,refridgerated truck,4,4
+I57,c1,Oatmeal,breakfast,yes,national,No,standard,perishable,14,4
+I58,r2,Yogurt Parfait,snack,yes,regional,No,cold,refridgerated truck,4,4
+I59,r2,Banana,snack,none,regional,No,fragile,perishable,4,4
+I60,r2,Apple,snack,none,regional,No,fragile,perishable,4,4
+I61,c1,Mint Gum,snack,none,national,No,standard,perishable,180,7
+I62,r2,Fruit & Nut Bar,snack,yes,regional,No,standard,perishable,90,4
+I63,c2,Siren Logo Plastic Cold Cup - 64oz,merchandise,none,national,No,standard,standard,999,7
+I64,c2,Siren Logo Double-Wall Ceramic Tumbler - 22 fl oz,merchandise,none,national,No,fragile,standard,999,7
+I65,c2,Siren Logo - Small Paper Bag,store supply,none,national,No,standard,standard,999,7
+I66,r3,Large Paper Bag,store supply,none,regional,No,standard,standard,999,4
+I67,c1,California Mug,merchandise,none,national,No,fragile,standard,999,7
+I68,r3,Local Mug,merchandise,none,regional,No,fragile,standard,999,4
+I69,d1,Skim Milk,dairy,none,dairy,No,cold,refridgerated truck,7,4
+I70,d1,2% Milk,dairy,none,dairy,No,cold,refridgerated truck,7,4
+I71,d1,Whole Milk,dairy,none,dairy,No,cold,refridgerated truck,7,4
+I72,d2,Half and Half,dairy,none,dairy,No,cold,refridgerated truck,7,4
+I73,d2,Heavy Whipping Cream,dairy,none,dairy,No,cold,refridgerated truck,7,4
+I74,d3,Soy Milk,dairy,none,dairy,No,cold,refridgerated truck,7,4
+I75,d3,Almond Milk,dairy,none,dairy,No,cold,refridgerated truck,7,4
+I76,d3,Oat Milk,dairy,none,dairy,No,cold,refridgerated truck,7,4
+I77,c1,Earl Grey Tea,tea,none,national,No,standard,standard,180,7
+I78,c1,Green Tea,tea,none,national,No,standard,standard,180,7
+I79,c1,Mint Tea,tea,none,national,No,standard,standard,180,7
+I80,c1,Peach Tea,tea,none,national,No,standard,standard,180,7
+I81,c1,Hibiscus Tea,tea,none,national,No,standard,standard,180,7
+I82,c2,Siren Logo Gift Card,store supply,none,national,No,standard,standard,999,7
+I83,c1,VIA Instant Coffee,coffee,none,national,No,standard,perishable,180,7
+I84,c1,Blonde Espresso Roast ground coffee-16oz,coffee,none,national,No,standard,perishable,180,7
+I85,c1,Pike Place Roast ground coffee-16oz,coffee,none,national,No,standard,perishable,180,7
+I86,c1,Komodo Dragon Blend whole coffee-16oz,coffee,none,national,No,standard,perishable,180,7
+I87,c1,Reserve - Guatemala Santa Clara Estate 8oz,coffee,none,national,No,standard,perishable,180,7
+I88,c1,Reserve - Ethiopia Gera 8oz,coffee,none,national,No,standard,perishable,180,7
+I89,d3,Coconut Milk,dairy,none,dairy,No,cold,refridgerated truck,7,7
